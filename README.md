@@ -3,6 +3,8 @@
 ![image](https://images.pexels.com/photos/597933/pexels-photo-597933.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940)
 Image Credit: [Adrianna Calvo](https://medium.com/r?url=https%3A%2F%2Fwww.pexels.com%2Fpt-br%2F%40adriannaca%3Futm_content%3DattributionCopyText%26utm_medium%3Dreferral%26utm_source%3Dpexels) no Pexels
 
+This project is my Udacity Data Science Nanodegree capstone project and is about finding the best offers sent by Starbucks to consumers. The datailed explanation about each step followed is on [Medium](https://medium.com/@lucassaffi_67427/identifying-which-groups-of-people-are-most-responsive-to-each-type-of-starbucks-offer-c61e8cda7fe6).
+
 ### Objective
 
 Starbucks has a program called "My Starbucks Rewards", which lets you earn stars with every purchase that can be redeemed for free drinks or food. The user needs to download the Starbucks app or visit the Starbucks website to create an account and also have a Starbucks card. After that, the client receives stars every time he makes a purchase through the app or with registered Starbucks card. Once every few days, Starbucks sends out an offer to users of the mobile app. An offer can be merely an advertisement for a drink or an actual offer such as a discount or BOGO (buy one get one free). 
