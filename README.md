@@ -36,7 +36,7 @@ profile.json
 - id (str) - customer id
 - income (float) - customer's income
 
-transcript.json
+transcript.json (Couldn't be add to repository because of the size)
 
 - event (str) - record description (ie transaction, offer received, offer viewed, etc.)
 - person (str) - customer id
